@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/googlechrome(1).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/googlechrome(2).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/googlechrome(3).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/googlechrome(4).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/microsoftedge(1).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/microsoftedge(2).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/microsoftedge(3).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/microsoftedge(4).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/mozillafirefox(1).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/mozillafirefox(2).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/mozillafirefox(3).png
+https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/refs/heads/main/mozillafirefox(4).png
+
