@@ -1,0 +1,35 @@
+{
+  "titulo": "MIGRACAO MICROSOFT TEAMS - PASSO A PASSO",
+  "passos": [
+    {
+      "numero": 1,
+      "titulo": "Realizar Logoff",
+      "descricao": "Realizar logoff da conta atual no Microsoft Teams. No Microsoft Teams, clique na sua foto de perfil (canto superior direito) e selecione a opção \"Sair\".",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/clique%20na%20sua%20foto%20de%20perfil.png"
+    },
+    {
+      "numero": 2,
+      "titulo": "Abrir o Aplicativo",
+      "descricao": "Abra novamente o Microsoft Teams clicando no ícone do aplicativo na área de trabalho ou no menu Iniciar.",
+      "imagem": null
+    },
+    {
+      "numero": 3,
+      "titulo": "Adicionar Nova Conta",
+      "descricao": "Na tela de login do Microsoft Teams, clique na opção \"Criar ou adicionar outra conta\".",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/login%20do%20Microsoft%20Teams.png"
+    },
+    {
+      "numero": 4,
+      "titulo": "Digitar Novo E-mail",
+      "descricao": "Digite o seu e-mail com o novo domínio @locatelligroup.com.br e clique em Avançar.",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/Digite%20o%20seu%20e-mail%20com%20o%20novo%20dom%C3%ADnio.png"
+    },
+    {
+      "numero": 5,
+      "titulo": "Confirmação Final",
+      "descricao": "Após o login, clique na sua foto de perfil para confirmar se está conectado com a conta @locatelligroup.com.br.",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/clique%20no%20seu%20perfil%20.png"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "titulo": "MIGRACAO E CONFIGURACAO DO PACOTE OFFICE - PASSO A PASSO",
+  "passos": [
+    {
+      "numero": 1,
+      "titulo": "Trocar de conta",
+      "descricao": "Abra qualquer aplicativo do Office (Word, Excel ou PowerPoint). Clique em Arquivo depois mais depois Conta depois Trocar de conta.",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/Trocar%20de%20conta.png"
+    },
+    {
+      "numero": 2,
+      "titulo": "Sair da conta",
+      "descricao": "Depois clique em SAIR.",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/clique%20em%20SAIR.png"
+    },
+    {
+      "numero": 3,
+      "titulo": "Entrar",
+      "descricao": "Clique em entrar.",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/Clique%20em%20entrar%20.png"
+    },
+    {
+      "numero": 4,
+      "titulo": "Digitar novo e-mail",
+      "descricao": "Depois digite seu novo e-mail.",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/Digite%20seu%20novo%20e-mail%20.png"
+    },
+    {
+      "numero": 5,
+      "titulo": "Senha e entrar",
+      "descricao": "Depois digite sua senha e clique em Entrar. Sua senha permanece a mesma.",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/digite%20sua%20senha%20depois%20Entrar.png"
+    },
+    {
+      "numero": 6,
+      "titulo": "Confirmar conta",
+      "descricao": "Após o login, clique na sua foto de perfil para confirmar se está conectado com a conta @locatelligroup.com.br.",
+      "imagem": "https://raw.githubusercontent.com/rafaeltec/hlb-imagens-agentes/main/imagens%20sequenciais/clique%20na%20sua%20foto%20de%20perfil%20para%20confirmar%20.png"
+    }
+  ]
+}
